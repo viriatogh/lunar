@@ -24,7 +24,7 @@ body{
 }
 
 .c{
-	background-color:grey;
+	background-color:black;
     color: white;	
 }
 
@@ -54,7 +54,7 @@ body{
   position:absolute;
   top:10%;
   width:20%;
-  height:20%;
+
 }
 
 #nave img{
